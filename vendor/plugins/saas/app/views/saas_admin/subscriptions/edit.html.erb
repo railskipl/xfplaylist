@@ -1,0 +1,36 @@
+<h1><%= @page_title = "Edit Subscription" %></h1>
+
+<p>
+  Changes made to the assigned plan will override any changes made to the amount.
+</p>
+
+<%= form_for @subscription, :url => resource_path do |form| %>
+  <%= form.error_messages %>
+
+  <fieldset>
+    <div class="field string">
+      <%= form.label :amount %>
+      <%= form.text_field :amount %>
+    </div>
+
+    <div class="field string">
+      <%= form.label :next_renewal_at, "Renewal date" %>
+      <%= form.text_field :next_renewal_at %>
+    </div>
+
+    <div class="field string">
+      <%= form.label :state %>
+      <%= form.text_field :state %>
+    </div>
+
+    <div class="field select">
+      <%= form.label :plan_id %>
+      <%= form.select :plan_id, SubscriptionPlan.all(:order => "amount desc").collect {|p| [p.to_s, p.id]} %>
+    </div>
+  </fieldset>
+
+  <p>
+    <%= form.submit "Save changes" %>
+    or <%= link_to "go back", saas_admin_subscription_path(@subscription) %>
+  </p>
+<% end %>

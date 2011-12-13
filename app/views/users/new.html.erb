@@ -1,0 +1,12 @@
+<h2><%= @page_title = "Create User" %></h2>
+
+<% if current_account.reached_user_limit? %>
+  <p>
+    You have reached the maximum number of users you can have with your account level.
+    You can either delete some of your users or <%= link_to "upgrade your account", plan_account_path %> to create a new user.
+  </p>
+<% else %>
+  <%= form_for @user do |f| -%>
+    <%= render :partial => "form", :locals => { :f => f } %>
+  <% end -%>
+<% end -%>

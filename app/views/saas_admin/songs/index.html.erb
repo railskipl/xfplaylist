@@ -1,0 +1,32 @@
+<h2><%= @page_title = "Songs" %></h2>
+
+<%= link_to "Add a new song", new_saas_admin_song_path %>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Genre</th>
+      <th>Explicit</th>
+      <th>Flags</th>
+      <th></th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <% @songs.each do |song| %>
+      <tr>
+        <td><%= song.title %></td>
+        <td><%= song.genre %></td>
+        <td><%= song.explicit ? "Yes" : "No" %></td>
+        <td><%= song.flags.count %></td>
+        <td>
+          <%= link_to "Edit", edit_saas_admin_song_path(song) %>
+          <%= link_to "Delete", saas_admin_song_path(song), :method => :delete, :confirm => "Are you sure you want to permanently delete this song?" %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= link_to "Add a new song", new_saas_admin_song_path %>

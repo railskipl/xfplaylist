@@ -1,0 +1,27 @@
+<h2><%= @page_title = "Plans" %></h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Cost</th>
+      <th>Trial period</th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @subscription_plans.each do |plan| %>
+      <tr>
+        <td><%= plan.name %></td>
+        <td><%= number_to_currency(plan.amount) %> every <%= plan.renewal_period %> month(s)</td>
+        <td><%= plan.trial_period %> month(s)</td>
+        <td><%= link_to "Edit", edit_saas_admin_subscription_plan_path(plan) %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<p>
+  <%= link_to "Add a new plan", new_saas_admin_subscription_plan_path %>
+</p>

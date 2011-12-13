@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+html, body {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+	background:url(/images/background.jpg) #000 center top no-repeat;
+	margin:0;
+	padding:0
+}
+
+img {
+	border:0;
+}
+
+.clear {
+	clear:both
+}
+
+#wrapper {
+	width:1000px;
+	margin:auto;
+	position:relative
+}
+
+.logo {
+	width:524px;
+	height:125px;
+	float:left;
+	margin:32px 0 0 0;
+}
+
+.menuarea {
+	width:464px;
+	float:right;
+	margin:72px 0 0 0;
+}
+
+.menuarea ul{
+	margin:0;
+	padding:0;
+}
+
+.menuarea ul li {
+	display:inline;
+	float:left
+}
+
+.menuarea ul li a {
+	margin:0;
+	padding:0;
+	display:block
+}
+.menuarea ul li a.blog {
+	background:url(/images/blog_n.png) no-repeat;
+	height:51px;
+	width:78px;
+}
+
+.menuarea ul li a.blog:hover {
+	background:url(/images/blog_o.png) no-repeat;
+}
+
+
+.menuarea ul li a.about {
+	background:url(/images/about_n.png) no-repeat;
+	height:51px;
+	width:96px;
+}
+
+.menuarea ul li a.about:hover {
+	background:url(images/about_o.png) no-repeat;
+}
+
+.menuarea ul li a.faq {
+	background:url(/images/faq_n.png) no-repeat;
+	height:51px;
+	width:63px;
+}
+
+.menuarea ul li a.faq:hover {
+	background:url(/images/faq_o.png) no-repeat;
+}
+
+.menuarea ul li a.contact {
+	background:url(/images/contact_n.png) no-repeat;
+	height:51px;
+	width:103px;
+}
+
+.menuarea ul li a.contact:hover {
+	background:url(/images/contact_o.png) no-repeat;
+}
+
+.menuarea ul li a.private {
+	background:url(/images/private_n.png) no-repeat;
+	height:51px;
+	width:116px;
+}
+
+.menuarea ul li a.private:hover {
+	background:url(/images/private_o.png) no-repeat;
+}
+#content {
+	width:450px;
+	float:left;
+	margin:55px 0 0 40px;
+}
+#content h1 {
+	margin:0;
+	padding:0;
+	font-family:tahoma, arial, verdana;
+	font-size:28px;
+	color:#FF0000
+}
+
+#footer {
+	font-family:tahoma, arial, verdana;
+	color:#000;
+	font-size:13px;
+	padding:50px 0 0 0
+}
+
+#container {
+	width:1000px;
+	position:relative;
+	padding:66px 0 0 0 ;
+}
+
+#video_section {
+	width:490px;
+	float:left;
+}
+
+#video_section .video {	
+	padding:0px 0 0 45px;
+}
+

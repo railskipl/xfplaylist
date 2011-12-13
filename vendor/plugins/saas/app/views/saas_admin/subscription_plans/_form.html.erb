@@ -1,0 +1,33 @@
+<%= form.error_messages %>
+
+<fieldset>
+  <div class="field string">
+    <%= form.label :name, "What should this plan be called?" %>
+    <%= form.text_field :name %>
+  </div>
+
+  <div class="field string">
+    <%= form.label :amount, "How much should it cost? (enter 4.99 for $4.99)" %>
+    <%= form.text_field :amount %>
+  </div>
+
+  <div class="field string">
+    <%= form.label :setup_amount, "What should the setup fee be? (enter 0 for none)" %>
+    <%= form.text_field :setup_amount %>
+  </div>
+
+  <div class="field string">
+    <%= form.label :renewal_period, "How often should the customer be billed? (in months; use whole numbers)" %>
+    <%= form.text_field :renewal_period %>
+  </div>
+
+  <div class="field string">
+    <%= form.label :trial_period, "How long should the customer's trial period last? (in months; use whole numbers)" %>
+    <%= form.text_field :trial_period %>
+  </div>
+</fieldset>
+
+<p>
+  <%= form.submit (form.object.new_record? ? "Add plan" : "Save changes") %>
+  or <%= link_to "go back", saas_admin_subscription_plans_path %>
+</p>

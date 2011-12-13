@@ -1,0 +1,30 @@
+<h2><%= @page_title = "View Account" %></h2>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <td><%= @account.name %></td>
+  </tr>
+
+  <tr>
+    <th>Domain</th>
+    <td><%= @account.full_domain %></td>
+  </tr>
+
+  <tr>
+    <th>Created</th>
+    <td><%= @account.created_at.to_s(:short_day) %></td>
+  </tr>
+
+  <tr>
+    <th>Plan</th>
+    <td><%= @account.subscription.subscription_plan.name %></td>
+  </tr>
+
+  <tr>
+    <th>Lifetime Revenue</th>
+    <td><%= link_to number_to_currency(@account.subscription_payments.sum(:amount)), [:saas_admin, @account.subscription] %></td>
+  </tr>
+</table>
+
+<p><%= link_to "Go back to all accounts", saas_admin_accounts_path %></p>

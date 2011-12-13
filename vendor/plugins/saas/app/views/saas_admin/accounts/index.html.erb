@@ -1,0 +1,24 @@
+<h2><%= @page_title = "Accounts" %></h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Account Name</th>
+      <th>Domain</th>
+      <th>Created</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <% @accounts.each do |account| %>
+      <tr>
+        <td><%= account.name %></td>
+        <td><%= account.full_domain %></td>
+        <td><%= account.created_at.to_s(:short_day) %></td>
+        <td><%= link_to "See details", [:saas_admin, account] %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= will_paginate(@accounts) %>

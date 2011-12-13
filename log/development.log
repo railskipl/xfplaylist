@@ -1,0 +1,2540 @@
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 14:38:01 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (43.7ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (48.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 14:38:05 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 14:38:49 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 14:39:20 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 14:42:11 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:03:27 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.8ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:04:47 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:04:50 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:05:00 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.2ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:05:37 +0530
+
+LoadError (no such file to load -- sqlite3):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (9.0ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.1ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:07:24 +0530
+
+LoadError (Expected /home/vinita/railsapp/xfplaylist/app/helpers/songs_helper.rb to define SongsHelper):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/content_controller.rb:4:in `<top (required)>'
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (9.2ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:07:31 +0530
+
+LoadError (Expected /home/vinita/railsapp/xfplaylist/app/helpers/songs_helper.rb to define SongsHelper):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/content_controller.rb:4:in `<top (required)>'
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:08:03 +0530
+
+LoadError (Expected /home/vinita/railsapp/xfplaylist/app/helpers/songs_helper.rb to define SongsHelper):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/content_controller.rb:4:in `<top (required)>'
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:08:44 +0530
+
+LoadError (Expected /home/vinita/railsapp/xfplaylist/app/helpers/songs_helper.rb to define SongsHelper):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/content_controller.rb:4:in `<top (required)>'
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:08:45 +0530
+
+LoadError (Expected /home/vinita/railsapp/xfplaylist/app/helpers/songs_helper.rb to define SongsHelper):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/content_controller.rb:4:in `<top (required)>'
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:08:46 +0530
+
+LoadError (Expected /home/vinita/railsapp/xfplaylist/app/helpers/songs_helper.rb to define SongsHelper):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/content_controller.rb:4:in `<top (required)>'
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.7ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:09:25 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (43.1ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (47.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:12:24 +0530
+
+Mysql2::Error (Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.8ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (32.7ms)[0m  CREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL) ENGINE=InnoDB
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW KEYS FROM `schema_migrations`[0m
+  [1m[35mSQL (10.4ms)[0m  CREATE UNIQUE INDEX `unique_schema_migrations` ON `schema_migrations` (`version`)
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.1ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to CreateUsers (20100923231202)
+  [1m[35mSQL (2.8ms)[0m  CREATE TABLE `users` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `login` varchar(255) NOT NULL, `name` varchar(255), `email` varchar(255) NOT NULL, `crypted_password` varchar(255) NOT NULL, `password_salt` varchar(255) NOT NULL, `persistence_token` varchar(255) NOT NULL, `last_login_at` datetime, `current_login_at` datetime, `last_login_ip` varchar(255), `current_login_ip` varchar(255), `single_access_token` varchar(255), `account_id` int(11), `admin` tinyint(1) DEFAULT 0, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW KEYS FROM `users`[0m
+  [1m[35mSQL (2.7ms)[0m  CREATE INDEX `index_users_on_login` ON `users` (`login`)
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW KEYS FROM `users`[0m
+  [1m[35mSQL (3.0ms)[0m  CREATE INDEX `index_users_on_email` ON `users` (`email`)
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW KEYS FROM `users`[0m
+  [1m[35mSQL (2.8ms)[0m  CREATE INDEX `index_users_on_persistence_token` ON `users` (`persistence_token`)
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW KEYS FROM `users`[0m
+  [1m[35mSQL (3.0ms)[0m  CREATE UNIQUE INDEX `index_users_on_single_access_token` ON `users` (`single_access_token`)
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW KEYS FROM `users`[0m
+  [1m[35mSQL (2.7ms)[0m  CREATE INDEX `index_users_on_account_id` ON `users` (`account_id`)
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20100923231202')[0m
+Migrating to CreateAccounts (20100928142056)
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (1.6ms)[0m  [1mCREATE TABLE `accounts` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `name` varchar(255), `created_at` datetime, `updated_at` datetime, `full_domain` varchar(255), `deleted_at` datetime) ENGINE=InnoDB[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `accounts`
+  [1m[36mSQL (1.7ms)[0m  [1mCREATE INDEX `index_accounts_on_full_domain` ON `accounts` (`full_domain`)[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20100928142056')
+Migrating to CreateSubscriptionTables (20100928150231)
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (1.4ms)[0m  CREATE TABLE `subscription_affiliates` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `name` varchar(255), `rate` decimal(6,4) DEFAULT 0.0, `created_at` datetime, `updated_at` datetime, `token` varchar(255)) ENGINE=InnoDB
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `subscription_affiliates`[0m
+  [1m[35mSQL (1.7ms)[0m  CREATE INDEX `index_subscription_affiliates_on_token` ON `subscription_affiliates` (`token`)
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (1.0ms)[0m  CREATE TABLE `subscription_discounts` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `name` varchar(255), `code` varchar(255), `amount` decimal(6,2) DEFAULT 0.0, `percent` tinyint(1), `start_on` date, `end_on` date, `created_at` datetime, `updated_at` datetime, `apply_to_setup` tinyint(1) DEFAULT 1, `apply_to_recurring` tinyint(1) DEFAULT 1, `trial_period_extension` int(11) DEFAULT 0) ENGINE=InnoDB
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.9ms)[0m  CREATE TABLE `subscription_payments` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `subscriber_id` int(11), `subscription_id` int(11), `amount` decimal(10,2) DEFAULT 0.0, `transaction_id` varchar(255), `created_at` datetime, `updated_at` datetime, `setup` tinyint(1), `misc` tinyint(1), `subscription_affiliate_id` int(11), `affiliate_amount` decimal(6,2) DEFAULT 0.0, `subscriber_type` varchar(255) DEFAULT 'User') ENGINE=InnoDB
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW KEYS FROM `subscription_payments`[0m
+  [1m[35mSQL (2.9ms)[0m  CREATE INDEX `index_subscription_payments_on_subscriber` ON `subscription_payments` (`subscriber_id`, `subscriber_type`)
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `subscription_payments`[0m
+  [1m[35mSQL (7.4ms)[0m  CREATE INDEX `index_subscription_payments_on_subscription_id` ON `subscription_payments` (`subscription_id`)
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (1.2ms)[0m  CREATE TABLE `subscription_plans` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `name` varchar(255), `amount` decimal(10,2), `created_at` datetime, `updated_at` datetime, `renewal_period` int(11) DEFAULT 1, `setup_amount` decimal(10,2), `trial_period` int(11) DEFAULT 1, `user_limit` int(11), `unit_price` float, `description` text, `featured` tinyint(1) DEFAULT 0) ENGINE=InnoDB
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (1.0ms)[0m  CREATE TABLE `subscriptions` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `amount` decimal(10,2), `next_renewal_at` datetime, `card_number` varchar(255), `card_expiration` varchar(255), `created_at` datetime, `updated_at` datetime, `state` varchar(255) DEFAULT 'trial', `subscription_plan_id` int(11), `subscriber_id` int(11), `renewal_period` int(11) DEFAULT 1, `billing_id` varchar(255), `user_limit` int(11), `subscription_discount_id` int(11), `subscription_affiliate_id` int(11), `subscriber_type` varchar(255) DEFAULT 'User') ENGINE=InnoDB
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW KEYS FROM `subscriptions`[0m
+  [1m[35mSQL (1.9ms)[0m  CREATE INDEX `index_subscriptions_on_subscriber_id_and_subscriber_type` ON `subscriptions` (`subscriber_id`, `subscriber_type`)
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20100928150231')[0m
+Migrating to AddPerishableTokenToUser (20101004233239)
+  [1m[35mSQL (94.2ms)[0m  ALTER TABLE `users` ADD `perishable_token` varchar(255) DEFAULT '' NOT NULL
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW KEYS FROM `users`[0m
+  [1m[35mSQL (2.9ms)[0m  CREATE INDEX `index_users_on_perishable_token` ON `users` (`perishable_token`)
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20101004233239')[0m
+Migrating to ToDevise (20101217214454)
+  [1m[35mSQL (0.2ms)[0m  SHOW COLUMNS FROM `users` LIKE 'crypted_password'
+  [1m[36mSQL (2.6ms)[0m  [1mALTER TABLE `users` CHANGE `crypted_password` `encrypted_password` varchar(255) NOT NULL[0m
+  [1m[35mSQL (2.5ms)[0m  ALTER TABLE `users` ADD `confirmation_token` varchar(255)
+  [1m[36mSQL (2.8ms)[0m  [1mALTER TABLE `users` ADD `confirmed_at` datetime[0m
+  [1m[35mSQL (2.5ms)[0m  ALTER TABLE `users` ADD `confirmation_sent_at` datetime
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE users SET confirmed_at = created_at, confirmation_sent_at = created_at[0m
+  [1m[35mSQL (2.6ms)[0m  ALTER TABLE `users` ADD `reset_password_token` varchar(255)
+  [1m[36mSQL (3.0ms)[0m  [1mALTER TABLE `users` ADD `remember_token` varchar(255)[0m
+  [1m[35mSQL (3.3ms)[0m  ALTER TABLE `users` ADD `remember_created_at` datetime
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW COLUMNS FROM `users` LIKE 'current_login_at'[0m
+  [1m[35mSQL (2.8ms)[0m  ALTER TABLE `users` CHANGE `current_login_at` `current_sign_in_at` datetime DEFAULT NULL
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW COLUMNS FROM `users` LIKE 'last_login_at'[0m
+  [1m[35mSQL (4.4ms)[0m  ALTER TABLE `users` CHANGE `last_login_at` `last_sign_in_at` datetime DEFAULT NULL
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW COLUMNS FROM `users` LIKE 'current_login_ip'[0m
+  [1m[35mSQL (3.8ms)[0m  ALTER TABLE `users` CHANGE `current_login_ip` `current_sign_in_ip` varchar(255) DEFAULT NULL
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW COLUMNS FROM `users` LIKE 'last_login_ip'[0m
+  [1m[35mSQL (3.3ms)[0m  ALTER TABLE `users` CHANGE `last_login_ip` `last_sign_in_ip` varchar(255) DEFAULT NULL
+  [1m[36mSQL (3.0ms)[0m  [1mALTER TABLE `users` ADD `sign_in_count` int(11) DEFAULT 0[0m
+  [1m[35mSQL (2.7ms)[0m  ALTER TABLE `users` ADD `failed_attempts` int(11) DEFAULT 0
+  [1m[36mSQL (3.0ms)[0m  [1mALTER TABLE `users` ADD `unlock_token` varchar(255)[0m
+  [1m[35mSQL (2.7ms)[0m  ALTER TABLE `users` ADD `locked_at` datetime
+  [1m[36mSQL (2.9ms)[0m  [1mALTER TABLE `users` DROP `persistence_token`[0m
+  [1m[35mSQL (2.8ms)[0m  ALTER TABLE `users` DROP `perishable_token`
+  [1m[36mSQL (2.3ms)[0m  [1mALTER TABLE `users` DROP `single_access_token`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `users`
+  [1m[36mSQL (2.3ms)[0m  [1mCREATE UNIQUE INDEX `index_users_on_confirmation_token` ON `users` (`confirmation_token`)[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW KEYS FROM `users`
+  [1m[36mSQL (3.2ms)[0m  [1mCREATE UNIQUE INDEX `index_users_on_reset_password_token` ON `users` (`reset_password_token`)[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW KEYS FROM `users`
+  [1m[36mSQL (2.5ms)[0m  [1mCREATE UNIQUE INDEX `index_users_on_unlock_token` ON `users` (`unlock_token`)[0m
+  [1m[35mSQL (1.7ms)[0m  CREATE TABLE `admins` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `email` varchar(255) DEFAULT '' NOT NULL, `encrypted_password` varchar(128) DEFAULT '' NOT NULL, `reset_password_token` varchar(255), `remember_token` varchar(255), `remember_created_at` datetime, `sign_in_count` int(11) DEFAULT 0, `current_sign_in_at` datetime, `last_sign_in_at` datetime, `current_sign_in_ip` varchar(255), `last_sign_in_ip` varchar(255), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `admins`[0m
+  [1m[35mSQL (1.9ms)[0m  CREATE UNIQUE INDEX `index_admins_on_email` ON `admins` (`email`)
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `admins`[0m
+  [1m[35mSQL (2.6ms)[0m  CREATE UNIQUE INDEX `index_admins_on_reset_password_token` ON `admins` (`reset_password_token`)
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20101217214454')[0m
+Migrating to RenameAdminTable (20110309231949)
+  [1m[35mSQL (0.6ms)[0m  RENAME TABLE `admins` TO `saas_admins`
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110309231949')[0m
+Migrating to RemoveLoginFromUsers (20110414174158)
+  [1m[35mSQL (3.7ms)[0m  ALTER TABLE `users` DROP `login`
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110414174158')[0m
+Migrating to CreatePages (20110703072839)
+  [1m[35mSQL (1.0ms)[0m  CREATE TABLE `pages` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `title` varchar(255) NOT NULL, `slug` varchar(255) NOT NULL, `body` text, `position` int(11), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `pages`[0m
+  [1m[35mSQL (1.8ms)[0m  CREATE UNIQUE INDEX `index_pages_on_slug` ON `pages` (`slug`)
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110703072839')[0m
+Migrating to CreatePosts (20110703091717)
+  [1m[35mSQL (0.9ms)[0m  CREATE TABLE `posts` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `title` varchar(255) NOT NULL, `body` text, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110703091717')[0m
+Migrating to CreateSongs (20110704023044)
+  [1m[35mSQL (1.6ms)[0m  CREATE TABLE `songs` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `title` varchar(255) NOT NULL, `video_id` varchar(255) NOT NULL, `seconds` int(11) DEFAULT 0 NOT NULL, `genre` varchar(255) NOT NULL, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `songs`[0m
+  [1m[35mSQL (1.8ms)[0m  CREATE UNIQUE INDEX `index_songs_on_video_id` ON `songs` (`video_id`)
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110704023044')[0m
+Migrating to AddExplicitToSongs (20110707031409)
+  [1m[35mSQL (2.1ms)[0m  ALTER TABLE `songs` ADD `explicit` tinyint(1) DEFAULT 0
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110707031409')[0m
+Migrating to RemovePasswordSaltFromUsers (20110709210526)
+  [1m[35mSQL (2.8ms)[0m  ALTER TABLE `users` DROP `password_salt`
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110709210526')[0m
+Migrating to CreateFlags (20110719010221)
+  [1m[35mSQL (1.3ms)[0m  CREATE TABLE `flags` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `account_id` int(11), `song_id` int(11), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110719010221')[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.3ms)[0m  [1mdescribe `accounts`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `accounts`
+  [1m[36mSQL (0.3ms)[0m  [1mdescribe `flags`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `flags`
+  [1m[36mSQL (0.5ms)[0m  [1mdescribe `pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `pages`
+  [1m[36mSQL (0.4ms)[0m  [1mdescribe `posts`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `posts`
+  [1m[36mSQL (0.5ms)[0m  [1mdescribe `saas_admins`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `saas_admins`
+  [1m[36mSQL (0.5ms)[0m  [1mdescribe `songs`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `songs`
+  [1m[36mSQL (0.4ms)[0m  [1mdescribe `subscription_affiliates`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `subscription_affiliates`
+  [1m[36mSQL (0.5ms)[0m  [1mdescribe `subscription_discounts`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `subscription_discounts`
+  [1m[36mSQL (0.6ms)[0m  [1mdescribe `subscription_payments`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `subscription_payments`
+  [1m[36mSQL (0.3ms)[0m  [1mdescribe `subscription_plans`[0m
+  [1m[35mSQL (0.1ms)[0m  SHOW KEYS FROM `subscription_plans`
+  [1m[36mSQL (0.4ms)[0m  [1mdescribe `subscriptions`[0m
+  [1m[35mSQL (0.1ms)[0m  SHOW KEYS FROM `subscriptions`
+  [1m[36mSQL (0.4ms)[0m  [1mdescribe `users`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `users`
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:14:21 +0530
+
+LoadError (Expected /home/vinita/railsapp/xfplaylist/app/helpers/songs_helper.rb to define SongsHelper):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/content_controller.rb:4:in `<top (required)>'
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (9.1ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:14:24 +0530
+
+LoadError (Expected /home/vinita/railsapp/xfplaylist/app/helpers/songs_helper.rb to define SongsHelper):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/content_controller.rb:4:in `<top (required)>'
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:15:35 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mAccount Load (0.5ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.3ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 1793ms (Views: 29.8ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:16:29 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 94ms (Views: 18.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2011-12-09 15:16:41 +0530
+  Processing by PresessionsController#new as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered presessions/new.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 59ms (Views: 28.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2011-12-09 15:16:45 +0530
+  Processing by AccountsController#plans as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+  [1m[35mSubscriptionPlan Load (0.3ms)[0m  SELECT `subscription_plans`.* FROM `subscription_plans` ORDER BY amount desc
+Rendered accounts/plans.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 50ms (Views: 24.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2011-12-09 15:16:56 +0530
+  Processing by AccountsController#plans as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+  [1m[35mSubscriptionPlan Load (0.1ms)[0m  SELECT `subscription_plans`.* FROM `subscription_plans` ORDER BY amount desc
+Rendered accounts/plans.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 37ms (Views: 18.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:17:01 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 48ms (Views: 17.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2011-12-09 15:17:44 +0530
+  Processing by AccountsController#plans as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+  [1m[36mSubscriptionPlan Load (0.1ms)[0m  [1mSELECT `subscription_plans`.* FROM `subscription_plans` ORDER BY amount desc[0m
+Rendered accounts/plans.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 81ms (Views: 18.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:17:48 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 49ms (Views: 17.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2011-12-09 15:17:50 +0530
+  Processing by PresessionsController#new as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered presessions/new.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 49ms (Views: 18.5ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/preauthenticate" for 127.0.0.1 at 2011-12-09 15:18:16 +0530
+  Processing by PresessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Dp87w46d+BCDKNuFCV4CuPyRit8oDRZWVoXzt33Q3aU=", "user"=>{"email"=>"vinitadeeran@gmail.com"}, "commit"=>"Continue"}
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`email` = 'vinitadeeran@gmail.com' LIMIT 1[0m
+Redirected to http://localhost:3000/signin
+Completed 302 Found in 88ms
+
+
+Started GET "/signin" for 127.0.0.1 at 2011-12-09 15:18:16 +0530
+  Processing by PresessionsController#new as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered presessions/new.html.erb within layouts/application (16.5ms)
+Completed 200 OK in 101ms (Views: 21.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2011-12-09 15:18:22 +0530
+  Processing by AccountsController#plans as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+  [1m[35mSubscriptionPlan Load (0.1ms)[0m  SELECT `subscription_plans`.* FROM `subscription_plans` ORDER BY amount desc
+Rendered accounts/plans.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 37ms (Views: 18.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-12-09 15:18:26 +0530
+  Processing by MessagesController#new as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered messages/new.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 106ms (Views: 32.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2011-12-09 15:18:29 +0530
+  Processing by PostsController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT `posts`.* FROM `posts` ORDER BY created_at DESC LIMIT 10 OFFSET 0[0m
+Rendered posts/index.html.erb within layouts/application (17.9ms)
+Completed 200 OK in 68ms (Views: 31.0ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:18:31 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 92ms (Views: 18.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:20:16 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.3ms)
+Completed 200 OK in 49ms (Views: 17.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2011-12-09 15:20:29 +0530
+  Processing by PresessionsController#new as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered presessions/new.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 49ms (Views: 18.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2011-12-09 15:20:32 +0530
+  Processing by AccountsController#plans as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+  [1m[35mSubscriptionPlan Load (0.1ms)[0m  SELECT `subscription_plans`.* FROM `subscription_plans` ORDER BY amount desc
+Rendered accounts/plans.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 36ms (Views: 17.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:20:40 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (57.6ms)
+Completed 200 OK in 92ms (Views: 62.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2011-12-09 15:20:45 +0530
+  Processing by PresessionsController#new as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered presessions/new.html.erb within layouts/application (59.7ms)
+Completed 200 OK in 94ms (Views: 64.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2011-12-09 15:20:47 +0530
+  Processing by MessagesController#new as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered messages/new.html.erb within layouts/application (17.4ms)
+Completed 200 OK in 102ms (Views: 22.4ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/contact/send" for 127.0.0.1 at 2011-12-09 15:27:40 +0530
+  Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Dp87w46d+BCDKNuFCV4CuPyRit8oDRZWVoXzt33Q3aU=", "message"=>{"sender_name"=>"hello", "sender_email"=>"hello@gmail.com", "title"=>"", "body"=>"hello"}, "commit"=>"Send message"}
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered mailer/contact_email.text.erb (0.4ms)
+
+Sent mail to xfplaylist@gmail.com (9916ms)
+Date: Fri, 09 Dec 2011 15:27:40 +0530
+From: hello <hello@gmail.com>
+Reply-To: hello@gmail.com
+To: xfplaylist@gmail.com
+Message-ID: <4ee1db94608de_dd826d013056210@ubuntu.mail>
+Subject: Message from hello
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+hello
+Redirected to http://localhost:3000/contact/sent
+Completed 302 Found in 10234ms
+
+
+Started GET "/contact/sent" for 127.0.0.1 at 2011-12-09 15:27:50 +0530
+  Processing by MessagesController#sent as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered messages/sent.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 111ms (Views: 32.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:28:00 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (58.3ms)
+Completed 200 OK in 93ms (Views: 62.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2011-12-09 15:28:11 +0530
+  Processing by PostsController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+  [1m[35mPost Load (0.1ms)[0m  SELECT `posts`.* FROM `posts` ORDER BY created_at DESC LIMIT 10 OFFSET 0
+Rendered posts/index.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 99ms (Views: 17.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:28:14 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (58.0ms)
+Completed 200 OK in 92ms (Views: 62.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2011-12-09 15:29:31 +0530
+  Processing by PresessionsController#new as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered presessions/new.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 95ms (Views: 18.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2011-12-09 15:29:34 +0530
+  Processing by AccountsController#plans as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+  [1m[35mSubscriptionPlan Load (0.1ms)[0m  SELECT `subscription_plans`.* FROM `subscription_plans` ORDER BY amount desc
+Rendered accounts/plans.html.erb within layouts/application (60.5ms)
+Completed 200 OK in 84ms (Views: 65.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:29:38 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 93ms (Views: 17.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:30:16 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (14.9ms)
+Completed 200 OK in 63ms (Views: 20.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/admins/sign_in" for 127.0.0.1 at 2011-12-09 15:30:56 +0530
+
+ActionController::RoutingError (No route matches "/admins/sign_in"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/admins/login" for 127.0.0.1 at 2011-12-09 15:31:03 +0530
+
+ActionController::RoutingError (No route matches "/admins/login"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/admins/login" for 127.0.0.1 at 2011-12-09 15:31:06 +0530
+
+ActionController::RoutingError (No route matches "/admins/login"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/saas-admins/sign_in" for 127.0.0.1 at 2011-12-09 15:32:16 +0530
+
+ActionController::RoutingError (No route matches "/saas-admins/sign_in"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/saasadmins/sign_in" for 127.0.0.1 at 2011-12-09 15:32:21 +0530
+
+ActionController::RoutingError (No route matches "/saasadmins/sign_in"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/saas_admin/sign_in" for 127.0.0.1 at 2011-12-09 15:32:42 +0530
+
+ActionController::RoutingError (No route matches "/saas_admin/sign_in"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/saas_admins/sign_in" for 127.0.0.1 at 2011-12-09 15:32:45 +0530
+  Processing by Devise::SessionsController#new as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered devise/shared/_links.erb (1.3ms)
+Rendered devise/sessions/new.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 220ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/signin" for 127.0.0.1 at 2011-12-09 15:40:28 +0530
+  Processing by PresessionsController#new as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered presessions/new.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 50ms (Views: 18.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2011-12-09 15:40:35 +0530
+  Processing by AccountsController#plans as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+  [1m[35mSubscriptionPlan Load (0.1ms)[0m  SELECT `subscription_plans`.* FROM `subscription_plans` ORDER BY amount desc
+Rendered accounts/plans.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 38ms (Views: 18.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2011-12-09 15:40:39 +0530
+  Processing by PresessionsController#new as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered presessions/new.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 49ms (Views: 18.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 15:40:42 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 48ms (Views: 17.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2011-12-09 15:40:45 +0530
+  Processing by AccountsController#plans as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+  [1m[35mSubscriptionPlan Load (0.1ms)[0m  SELECT `subscription_plans`.* FROM `subscription_plans` ORDER BY amount desc
+Rendered accounts/plans.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 84ms (Views: 65.7ms | ActiveRecord: 0.3ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:01:59 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 50ms (Views: 18.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:02:39 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (60.1ms)
+Completed 200 OK in 96ms (Views: 65.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:03:19 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 83ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:03:19 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/images/equalizer.png" for 127.0.0.1 at 2011-12-09 16:03:19 +0530
+
+ActionController::RoutingError (No route matches "/images/equalizer.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:04:32 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 99ms (Views: 18.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:06:09 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 82ms (Views: 6.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:06:09 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/images/equalizer.png" for 127.0.0.1 at 2011-12-09 16:06:09 +0530
+
+ActionController::RoutingError (No route matches "/images/equalizer.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:06:21 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 84ms (Views: 6.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:06:21 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/images/equalizer.png" for 127.0.0.1 at 2011-12-09 16:06:21 +0530
+
+ActionController::RoutingError (No route matches "/images/equalizer.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:06:54 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 84ms (Views: 6.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:06:54 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:07:31 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 84ms (Views: 53.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:07:31 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:07:37 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 37ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:07:37 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:08:12 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 37ms (Views: 6.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:08:12 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:08:21 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 38ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:08:21 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:12:22 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 1766ms (Views: 6.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:12:24 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:13:32 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 36ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:13:32 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:14:14 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 90ms (Views: 18.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 16:14:14 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:15:22 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 91ms (Views: 17.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:16:09 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 93ms (Views: 19.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:20 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (57.1ms)
+Completed 200 OK in 92ms (Views: 61.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:38 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.3ms)
+Completed 200 OK in 49ms (Views: 17.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:39 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 112ms (Views: 18.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:40 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.8ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (1.8ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 109ms (Views: 21.7ms | ActiveRecord: 2.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:40 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.2ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (65.4ms)
+Completed 200 OK in 165ms (Views: 69.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:40 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (1.7ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (19.7ms)
+Completed 200 OK in 117ms (Views: 26.0ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:40 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 107ms (Views: 19.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:40 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 50ms (Views: 17.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:40 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (57.3ms)
+Completed 200 OK in 93ms (Views: 62.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:41 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (69.9ms)
+Completed 200 OK in 112ms (Views: 75.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:41 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.2ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.2ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 124ms (Views: 19.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:41 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 97ms (Views: 18.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:41 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 99ms (Views: 17.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:41 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 55ms (Views: 17.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:41 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (58.1ms)
+Completed 200 OK in 93ms (Views: 62.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:41 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 97ms (Views: 18.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:42 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (14.9ms)
+Completed 200 OK in 98ms (Views: 19.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:42 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 104ms (Views: 18.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:42 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 50ms (Views: 18.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:42 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 50ms (Views: 18.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:42 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (59.5ms)
+Completed 200 OK in 96ms (Views: 63.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:42 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 94ms (Views: 18.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:42 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 103ms (Views: 18.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:43 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 99ms (Views: 19.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:17:43 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (69.3ms)
+Completed 200 OK in 130ms (Views: 74.1ms | ActiveRecord: 0.3ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:20:13 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 1673ms (Views: 8.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:20:48 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 90ms (Views: 17.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:21:24 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (57.4ms)
+Completed 200 OK in 92ms (Views: 62.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:27:41 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 37ms (Views: 6.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:27:41 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/images/equalizer.png" for 127.0.0.1 at 2011-12-09 16:27:41 +0530
+
+ActionController::RoutingError (No route matches "/images/equalizer.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:28:45 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (45.6ms)
+Completed 200 OK in 80ms (Views: 50.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:28:45 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:29:10 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 81ms (Views: 6.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:29:11 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:30:00 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 82ms (Views: 6.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:30:01 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:30:36 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 82ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:30:37 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:30:55 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 83ms (Views: 6.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:30:55 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:30:56 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 82ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:30:56 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:32:10 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 38ms (Views: 6.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:32:10 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:33:10 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 37ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:33:10 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:33:54 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 37ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/application.css" for 127.0.0.1 at 2011-12-09 16:33:54 +0530
+
+ActionController::RoutingError (No route matches "/application.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:35:07 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 37ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/application.css" for 127.0.0.1 at 2011-12-09 16:35:08 +0530
+
+ActionController::RoutingError (No route matches "/application.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:35:58 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 38ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/application.css" for 127.0.0.1 at 2011-12-09 16:35:59 +0530
+
+ActionController::RoutingError (No route matches "/application.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:37:04 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 37ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:37:04 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:41:14 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 37ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:41:14 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:41:17 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 37ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:41:17 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:41:33 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 37ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:41:33 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:42:05 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.3ms)
+Completed 200 OK in 50ms (Views: 17.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 16:42:06 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:42:46 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.6ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 95ms (Views: 17.9ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:50:16 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 93ms (Views: 18.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:52:27 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (46.7ms)
+Completed 200 OK in 82ms (Views: 51.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:52:28 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:53:11 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 83ms (Views: 7.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:53:11 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:53:22 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 81ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:53:22 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:53:47 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 83ms (Views: 5.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:53:47 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/images/equalizer.png" for 127.0.0.1 at 2011-12-09 16:53:47 +0530
+
+ActionController::RoutingError (No route matches "/images/equalizer.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:55:50 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 85ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:55:50 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/images/equalizer.png" for 127.0.0.1 at 2011-12-09 16:55:50 +0530
+
+ActionController::RoutingError (No route matches "/images/equalizer.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 16:58:32 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 84ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 16:58:32 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/images/equalizer.png" for 127.0.0.1 at 2011-12-09 16:58:32 +0530
+
+ActionController::RoutingError (No route matches "/images/equalizer.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:01:14 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 83ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/style.css" for 127.0.0.1 at 2011-12-09 17:01:14 +0530
+
+ActionController::RoutingError (No route matches "/style.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/images/equalizer.png" for 127.0.0.1 at 2011-12-09 17:01:14 +0530
+
+ActionController::RoutingError (No route matches "/images/equalizer.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:03:07 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 83ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/application.css" for 127.0.0.1 at 2011-12-09 17:03:07 +0530
+
+ActionController::RoutingError (No route matches "/application.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:04:25 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 39ms (Views: 7.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/application.css" for 127.0.0.1 at 2011-12-09 17:04:25 +0530
+
+ActionController::RoutingError (No route matches "/application.css"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:04:48 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 37ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:04:49 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 38ms (Views: 5.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:07:37 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 37ms (Views: 6.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:07:37 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/blog_n.png" for 127.0.0.1 at 2011-12-09 17:07:37 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/blog_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/about_n.png" for 127.0.0.1 at 2011-12-09 17:07:37 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.9ms)
+
+
+Started GET "/stylesheets/images/faq_n.png" for 127.0.0.1 at 2011-12-09 17:07:37 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/faq_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/contact_n.png" for 127.0.0.1 at 2011-12-09 17:07:37 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/contact_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/private_n.png" for 127.0.0.1 at 2011-12-09 17:07:37 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/private_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/faq_o.png" for 127.0.0.1 at 2011-12-09 17:07:38 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/faq_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/contact_o.png" for 127.0.0.1 at 2011-12-09 17:07:38 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/contact_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-09 17:07:44 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/blog_o.png" for 127.0.0.1 at 2011-12-09 17:07:44 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/blog_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/images/private_o.png" for 127.0.0.1 at 2011-12-09 17:07:45 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/private_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:08:10 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 82ms (Views: 52.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:08:10 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/blog_n.png" for 127.0.0.1 at 2011-12-09 17:08:10 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/blog_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/about_n.png" for 127.0.0.1 at 2011-12-09 17:08:10 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/images/contact_n.png" for 127.0.0.1 at 2011-12-09 17:08:10 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/contact_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/private_n.png" for 127.0.0.1 at 2011-12-09 17:08:10 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/private_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/faq_n.png" for 127.0.0.1 at 2011-12-09 17:08:10 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/faq_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:08:36 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:08:50 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-09 17:08:51 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/stylesheets/images/blog_o.png" for 127.0.0.1 at 2011-12-09 17:08:51 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/blog_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:09:06 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:09:07 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:09:12 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:09:31 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 85ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:09:31 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/stylesheets/images/blog_n.png" for 127.0.0.1 at 2011-12-09 17:09:31 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/blog_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/about_n.png" for 127.0.0.1 at 2011-12-09 17:09:31 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/faq_n.png" for 127.0.0.1 at 2011-12-09 17:09:31 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/faq_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/contact_n.png" for 127.0.0.1 at 2011-12-09 17:09:31 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/contact_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/private_n.png" for 127.0.0.1 at 2011-12-09 17:09:31 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/private_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:09:53 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:09:58 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:11:16 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 38ms (Views: 6.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:11:16 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/blog_n.png" for 127.0.0.1 at 2011-12-09 17:11:16 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/blog_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/about_n.png" for 127.0.0.1 at 2011-12-09 17:11:16 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/faq_n.png" for 127.0.0.1 at 2011-12-09 17:11:16 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/faq_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/contact_n.png" for 127.0.0.1 at 2011-12-09 17:11:16 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/contact_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/stylesheets/images/private_n.png" for 127.0.0.1 at 2011-12-09 17:11:16 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/private_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (48.9ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-09 17:11:20 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/faq_o.png" for 127.0.0.1 at 2011-12-09 17:11:20 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/faq_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:11:23 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:11:23 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/blog_o.png" for 127.0.0.1 at 2011-12-09 17:11:23 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/blog_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:12:38 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 84ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:12:38 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/blog_n.png" for 127.0.0.1 at 2011-12-09 17:12:38 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/blog_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.8ms)
+
+
+Started GET "/stylesheets/images/about_n.png" for 127.0.0.1 at 2011-12-09 17:12:38 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/faq_n.png" for 127.0.0.1 at 2011-12-09 17:12:38 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/faq_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/stylesheets/images/contact_n.png" for 127.0.0.1 at 2011-12-09 17:12:38 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/contact_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/private_n.png" for 127.0.0.1 at 2011-12-09 17:12:38 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/private_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/private_o.png" for 127.0.0.1 at 2011-12-09 17:12:41 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/private_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/images/contact_o.png" for 127.0.0.1 at 2011-12-09 17:12:41 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/contact_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/images/faq_o.png" for 127.0.0.1 at 2011-12-09 17:12:41 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/faq_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-09 17:12:41 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:12:48 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:13:49 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 86ms (Views: 6.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/background.jpg" for 127.0.0.1 at 2011-12-09 17:13:49 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/background.jpg"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/stylesheets/images/blog_n.png" for 127.0.0.1 at 2011-12-09 17:13:49 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/blog_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/images/private_n.png" for 127.0.0.1 at 2011-12-09 17:13:49 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/private_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/images/contact_n.png" for 127.0.0.1 at 2011-12-09 17:13:49 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/contact_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/faq_n.png" for 127.0.0.1 at 2011-12-09 17:13:49 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/faq_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/about_n.png" for 127.0.0.1 at 2011-12-09 17:13:49 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_n.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:14:22 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 38ms (Views: 6.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-09 17:14:24 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:18:03 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 82ms (Views: 6.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:18:15 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 85ms (Views: 6.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-09 17:18:17 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 17:27:48 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 38ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-09 18:00:16 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-09 18:01:11 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 37ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-12 10:01:02 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mSQL (91.9ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mAccount Load (66.2ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.2ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (1.0ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 1937ms (Views: 27.6ms | ActiveRecord: 159.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-12 10:01:40 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 37ms (Views: 6.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/admins/login" for 127.0.0.1 at 2011-12-12 10:01:47 +0530
+
+ActionController::RoutingError (No route matches "/admins/login"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-12 10:01:52 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-12 10:05:45 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 38ms (Views: 5.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-12 10:05:51 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/user/js/jquery-1.6.2.min.js" for 127.0.0.1 at 2011-12-13 10:51:26 +0530
+
+ActionController::RoutingError (No route matches "/user/js/jquery-1.6.2.min.js"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/user/js/jquery-1.2.3.js" for 127.0.0.1 at 2011-12-13 10:51:27 +0530
+
+ActionController::RoutingError (No route matches "/user/js/jquery-1.2.3.js"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/user/js/modal-window.js" for 127.0.0.1 at 2011-12-13 10:51:27 +0530
+
+ActionController::RoutingError (No route matches "/user/js/modal-window.js"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/user/images/avatar_2.png" for 127.0.0.1 at 2011-12-13 10:51:27 +0530
+
+ActionController::RoutingError (No route matches "/user/images/avatar_2.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/user/images/avatar_1.png" for 127.0.0.1 at 2011-12-13 10:51:27 +0530
+
+ActionController::RoutingError (No route matches "/user/images/avatar_1.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/user/images/avatar_1.png" for 127.0.0.1 at 2011-12-13 10:51:27 +0530
+
+ActionController::RoutingError (No route matches "/user/images/avatar_1.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/user/images/avatar_2.png" for 127.0.0.1 at 2011-12-13 10:51:27 +0530
+
+ActionController::RoutingError (No route matches "/user/images/avatar_2.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/user/images/favicon.png" for 127.0.0.1 at 2011-12-13 10:51:29 +0530
+
+ActionController::RoutingError (No route matches "/user/images/favicon.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/user/images/favicon.png" for 127.0.0.1 at 2011-12-13 10:51:29 +0530
+
+ActionController::RoutingError (No route matches "/user/images/favicon.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-13 10:51:35 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mAccount Load (0.3ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.3ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 1876ms (Views: 50.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-13 10:51:46 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)

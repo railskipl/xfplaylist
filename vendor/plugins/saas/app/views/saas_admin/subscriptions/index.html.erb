@@ -1,0 +1,49 @@
+<% if @stats %>
+  <h2>Revenue Summary</h2>
+
+  <table id="stats">
+    <thead>
+      <tr>
+        <th>This Month</th>
+        <th>Last Month</th>
+        <th>Last 30 Days</th>
+      </tr>
+    </thead>
+    
+    <tbody>
+      <tr>
+        <td><%= number_to_currency(@stats[:this_month]) %></td>
+        <td><%= number_to_currency(@stats[:last_month]) %></td>
+        <td><%= number_to_currency(@stats[:last_30]) %></td>
+      </tr>
+    </tbody>
+  </table>
+<% end %>
+
+<h2><%= @page_title = "Subscriptions" %></h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Account</th>
+      <th>Amount</th>
+      <th>Created</th>
+      <th>Next Renewal</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @subscriptions.each do |subscription| %>
+      <tr class="<%= "expired" unless subscription.current? %>">
+        <td><%= link_to subscription.subscriber, [:saas_admin, subscription] %></td>
+        <td><%= number_to_currency(subscription.amount) %> <%= "(#{subscription.discount.name})" if subscription.discount %></td>
+        <td><%= subscription.created_at.to_s(:short_day) %></td>
+        <td><%= subscription.next_renewal_at.to_s(:short_day) %></td>
+        <td><%= subscription.state %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= will_paginate(@subscriptions) %>

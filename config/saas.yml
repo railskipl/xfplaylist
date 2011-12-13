@@ -1,0 +1,32 @@
+defaults: &defaults
+  app_name: XF Playlist
+  from_email: xfplaylist@gmail.com
+  base_domain: xfplaylist.com
+
+  gateway: bogus
+  credentials:
+    gateway:
+      :login: demo
+      :password: password
+    paypal:
+      :login: xfplay_1317358886_biz_api1.gmail.com
+      :password: 1317358924
+      :signature: AFcWxV21C7fd0v3bYYYRCpSSRl31ANmQ7245op1-cxh7boTiVEOUeQK7
+    
+development:
+  <<: *defaults
+  base_domain: xfplaylist.dev # Edit /etc/hosts to add subscriptions.dev, test.subscriptions.dev, etc., or use Pow: http://pow.cx
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults
+  credentials:
+    gateway:
+      :login: demo
+      :password: password
+    paypal:
+      :login: XFPlaylist_api1.gmail.com
+      :password: LGMUPCBQWBL7YSRZ
+      :signature: AFcWxV21C7fd0v3bYYYRCpSSRl31A.vHbZVF6ZESf-jK6F11T-qj9K7W

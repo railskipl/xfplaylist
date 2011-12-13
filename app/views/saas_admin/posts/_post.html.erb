@@ -1,0 +1,6 @@
+<div class="post">
+  <h2><%= link_to post.title, post_url(post, :subdomain => false) %></h2>
+  <time datetime="<%= post.created_at.to_s(:db).split(" ").first %>"><%= post.created_at.to_s(:short_day) %></time>
+
+  <%= post.body_html.html_safe %>
+</div>

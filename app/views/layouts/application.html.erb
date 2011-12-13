@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>XF Playlist</title>
+<%= stylesheet_link_tag(['style'])%>
+
+</head>
+
+<body>
+<div id="wrapper">
+<!--header start-->
+<!--logo start-->
+<div class="logo"><img src="/images/logo.png" alt="" /></div>
+<!--logo end-->
+<div class="menuarea"> 
+<ul>
+	<li><a href="#" class="blog"></a></li>
+    <li><a href="#" class="about"></a></li>
+    <li><a href="#" class="faq"></a></li>
+    <li><a href="#" class="contact"></a></li>
+    <li><a href="#" class="private"></a></li>
+</ul>
+</div>
+    <div id="body">
+      <%= flash_notices %>
+  		<%= yield %>
+    </div>
+  </div>
+
+<div class="clear"></div>
+
+
+<div id="footer" align="center">
+<strong>Copyright 2011, All Rights Reserved</strong>
+</div>
+
+</div>
+</body>
+</html>

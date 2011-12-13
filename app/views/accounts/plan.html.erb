@@ -1,0 +1,55 @@
+<% if @subscription && @subscription.errors.any? %>
+  <div class="errorExplanation">
+    <h2>Errors encountered with your change:</h2>
+    <ul>
+      <%= raw(@subscription.errors.full_messages.map {|m| content_tag(:li, m)}) %>
+    </ul>
+  </div>
+<% end %>
+
+<h2><%= @page_title = "Change Plan" %></h2>
+<p>
+  You can change your plan level at any time.
+</p>
+<p>
+  The user limits and other features of the new plan that you select will be effective as soon as you make the change,
+  but your bill amount will not change until your next bill date.
+</p>
+<p>
+  Your next bill date is <%= @subscription.next_renewal_at.to_s(:long_day) %>.
+</p>
+
+<% if @subscription.needs_payment_info? -%>
+  <p>
+    Please make sure you <%= link_to "enter your billing information", billing_account_url %> before your bill date to prevent an interruption in service.
+  </p>
+<% end %>
+
+<p>
+  You are currently subscribed to the <strong><%= @subscription.subscription_plan.name %> Plan</strong>.
+  Please select your desired plan and click the "Change my plan" button.
+</p>
+
+<%= form_tag plan_account_url, :id => "choose_new_plan" do %>
+  <div class="field select">
+    <label for="plan_id">Choose a new plan:</label>
+    <select name="plan_id" id="plan_id" onchange="enableButton()">
+      <option value=""></option>
+      <% @plans.each do |p| %>
+        <%= content_tag(:option, p, :value => p.id, :disabled => !current_account.qualifies_for?(p)) %>
+      <% end %>
+    </select>
+  </div>
+
+  <p>
+    <input name="commit" type="submit" id="commit" disabled="disabled" value="Change my plan" />
+    or <%= link_to "cancel", "/account" %>
+  </p>
+<% end %>
+  
+<script type="text/javascript" charset="utf-8">
+  function enableButton() {
+    document.getElementById('commit').disabled = document.forms[0].elements['plan_id'].selectedIndex == 0
+  }
+  enableButton();
+</script>

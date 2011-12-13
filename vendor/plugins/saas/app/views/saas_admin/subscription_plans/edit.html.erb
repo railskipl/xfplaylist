@@ -1,0 +1,5 @@
+<h2><%= @page_title = "Edit Plan" %></h2>
+
+<%= form_for @subscription_plan, :url => resource_path do |form| %>
+  <%= render :partial => "form", :object => form %>
+<% end %>

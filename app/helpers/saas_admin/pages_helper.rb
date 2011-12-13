@@ -1,0 +1,2 @@
+module SaasAdmin::PagesHelper
+end

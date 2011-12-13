@@ -1,0 +1,5 @@
+<h2><%= @page_title = "Create Plan" %></h2>
+
+<%= form_for [:saas_admin, @subscription_plan] do |form| %>
+  <%= render :partial => "form", :object => form %>
+<% end %>
