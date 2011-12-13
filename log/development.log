@@ -2574,3 +2574,15 @@ Started GET "/" for 127.0.0.1 at 2011-12-13 12:03:57 +0530
   [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
 Rendered content/index.html.erb within layouts/application (1.8ms)
 Completed 200 OK in 38ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at /home/vinita/railsapp/xfplaylist/config/environment.rb:5)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-13 12:06:18 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mSQL (76.6ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mAccount Load (0.1ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 1757ms (Views: 6.2ms | ActiveRecord: 76.8ms)
