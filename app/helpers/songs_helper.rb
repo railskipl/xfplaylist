@@ -1,2 +1,2 @@
-module SongsHelper
+module SaasAdmin::SongsHelper
 end
