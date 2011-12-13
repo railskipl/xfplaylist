@@ -1,4 +1,4 @@
-class SaasAdmin::SongsController < ApplicationController
+class SongsController < ApplicationController
   
 
   def create
