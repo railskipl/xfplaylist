@@ -1,5 +1,5 @@
 class SaasAdmin::SongsController < ApplicationController
-  include Saas::ControllerHelpers
+  
 
   def create
     create! { saas_admin_songs_url }
