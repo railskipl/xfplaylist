@@ -2556,3 +2556,21 @@ Started GET "/" for 127.0.0.1 at 2011-12-13 11:59:47 +0530
   [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
 Rendered content/index.html.erb within layouts/application (1.4ms)
 Completed 200 OK in 81ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-13 12:03:45 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 37ms (Views: 6.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-13 12:03:57 +0530
+  Processing by ContentController#index as HTML
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mAccount Load (0.0ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
+Rendered content/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 38ms (Views: 6.3ms | ActiveRecord: 0.2ms)
