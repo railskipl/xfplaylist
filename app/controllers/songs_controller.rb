@@ -1,3 +1,3 @@
-class SaasAdmin::SongsController < ApplicationController
+class SongsController < ApplicationController
  
 end
