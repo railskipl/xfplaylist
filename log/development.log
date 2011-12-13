@@ -2586,3 +2586,28 @@ Started GET "/" for 127.0.0.1 at 2011-12-13 12:06:18 +0530
   [1m[35mPage Load (0.1ms)[0m  SELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC
 Rendered content/index.html.erb within layouts/application (1.7ms)
 Completed 200 OK in 1757ms (Views: 6.2ms | ActiveRecord: 76.8ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-13 12:09:43 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-12-13 12:09:59 +0530
+  Processing by ContentController#index as HTML
+  [1m[36mAccount Load (0.1ms)[0m  [1mSELECT `accounts`.* FROM `accounts` WHERE `accounts`.`full_domain` = 'localhost' AND (accounts.deleted_at IS NULL) LIMIT 1[0m
+  [1m[35mAccount Load (0.0ms)[0m  SELECT `accounts`.* FROM `accounts` WHERE (accounts.deleted_at IS NULL) LIMIT 1
+  [1m[36mPage Load (0.1ms)[0m  [1mSELECT `pages`.* FROM `pages` ORDER BY position ASC, title ASC[0m
+Rendered content/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 36ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/stylesheets/images/about_o.png" for 127.0.0.1 at 2011-12-13 12:18:20 +0530
+
+ActionController::RoutingError (No route matches "/stylesheets/images/about_o.png"):
+  
+
+Rendered /home/vinita/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
