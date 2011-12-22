@@ -2,39 +2,42 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>XF Playlist</title>
+<title>Welcome to the XF-Playlist...</title>
 <%= stylesheet_link_tag(['style'])%>
-aaaaaaaaaaa
 </head>
 
 <body>
-<div id="wrapper">
-<!--header start-->
-<!--logo start-->
-<div class="logo"><img src="/images/logo.png" alt="" /></div>
-<!--logo end-->
-<div class="menuarea"> 
-<ul>
-	<li><a href="#" class="blog"></a></li>
-    <li><a href="#" class="about"></a></li>
-    <li><a href="#" class="faq"></a></li>
-    <li><a href="#" class="contact"></a></li>
-    <li><a href="#" class="private"></a></li>
-</ul>
-</div>
+<div id="bodyWrapp">
+	<div id="bodyWrapptp">
+    	<div id="bodyWrappbtm">
+        <div id="main_wrapp">
+        	<!--header start here-->
+            <div id="header">
+            	<div class="logo"><img src="/images/logo.png" alt="" /></div>
+                <!--login form begin-->
+                <div class="login_form">
+                	<form>
+                    	<label>Login :</label> <input type="text" name="username" value="Username" /> &nbsp;&nbsp;<input type="password" name="password" value="password" /><br />
+                        <p align="center"><input type="image" src="/images/sign.png" height="43" width="97" /></p>  
+                        <p align="center"><a href="#"><img src="/images/facebook_btn.png" alt="" /></a></p>                      
+                    </form>
+                </div>
+                <!--login form end-->
+            </div>
+            <!--header end here-->
+          
+          
     <div id="body">
       <%= flash_notices %>
   		<%= yield %>
     </div>
-  </div>
-
-<div class="clear"></div>
-
-
-<div id="footer" align="center">
-<strong>Copyright 2011, All Rights Reserved</strong>
-</div>
-
+ <!--footer start-->
+                <div id="footer">
+                    <p align="center">Copyright &copy; XF-Playlist, All rights reserved</p>
+                </div>
+            <!--footer end-->   
+        </div> 
+    </div>
 </div>
 </body>
 </html>
