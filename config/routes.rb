@@ -27,8 +27,8 @@ Subscriptions::Application.routes.draw do
     match '/content/:action' => 'content'
   end
 
+  root :to => "content#index"
   
-
   devise_for :users
 
   #
