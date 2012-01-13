@@ -1,0 +1,17 @@
+<%= f.error_messages %>
+
+<p>
+  <%= link_to "Formatting guide", "http://daringfireball.net/projects/markdown/syntax", :target => "_blank" %>
+</p>
+
+<div class="field string">
+  <%= f.label :title %>
+  <%= f.text_field :title %>
+</div>
+
+<div class="field text">
+  <%= f.label :body %>
+  <%= f.text_area :body %>
+</div>
+
+<%= submit_or_cancel %>

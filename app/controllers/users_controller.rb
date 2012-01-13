@@ -33,5 +33,7 @@ class UsersController < ApplicationController
     def check_user_limit
       redirect_to new_user_url if current_account.reached_user_limit?
     end
+    
+    has_many :pages
   
 end

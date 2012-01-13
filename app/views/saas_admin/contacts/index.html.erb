@@ -1,0 +1,24 @@
+<h2><%= @contact_name = "Contacts" %></h2>
+
+<table id="contacts">
+  <thead>
+    <tr>
+      <th>Nmae</th>
+      <th>Email</th>
+      <th>Message</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <% @contacts.each do |contact| %>
+      <tr data-contact-id="<%= contact.to_param %>" data-reposition-path="<%= reposition_saas_admin_contact_path(contact) %>">
+        <td><%= link_to contact.title, saas_admin_contact_path(contact) %></td>
+        <td>
+          <%= link_to "Delete", saas_admin_contact_path(contact), :method => :delete, :confirm => "Are you sure you want to permanently delete this contact?" %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+

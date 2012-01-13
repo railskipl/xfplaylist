@@ -1,0 +1,60 @@
+<h2><%= @page_title = "Billing Information" %></h2>
+
+<% if @subscription.state == "trial" %>
+  <% if @subscription.next_renewal_at > Time.now %>
+    <p>Thank you for trying <%= Saas::Config.app_name %>!<p>
+    <p>Your trial account will expire in <%= pluralize(@subscription.trial_days, "day", "days") %>, at which time you will no longer have access to your account.</p>
+    <p>To maintain access to your account, click &#8220;Pay with PayPal&#8221; below. This will send you to PayPal to set up a subscription. When you&#8217;re done, PayPal will send you back to this site.</p>
+    <p>Your first charge will happen on <%= @subscription.next_renewal_at.to_s(:long_day) %>.</p>
+  <% else %>
+    <p>Thank you for trying <%= Saas::Config.app_name %>! Your trial account has expired.<p>
+    <p>To regain access to your account, click &#8220;Pay with PayPal&#8221; below. This will send you to PayPal to start your subscription. When you&#8217;re finished, PayPal will send you back to this site.</p>
+    <p>Your first charge will happen immediately, and you will be billed monthly thereafter.</p>
+  <% end %>
+<% end %>
+
+<table>
+  <tr>
+    <th>Your plan</th>
+    <td><%= @subscription.subscription_plan.name %> (<%= link_to "Change plan", plan_account_path %>)</td>
+  </tr>
+
+  <% if @subscription.state == "trial" %>
+    <tr>
+      <th>Trial expiration date</th>
+      <td><%= @subscription.next_renewal_at.to_s(:long_day) %></td>
+    </tr>
+  <% else %>
+    <% if @subscription.amount > 0 %>
+      <tr>
+        <th>Next charge date</th>
+        <td><%= @subscription.next_renewal_at.to_s(:long_day) %></td>
+      </tr>
+
+      <tr>
+        <th>Next charge amount</th>
+        <td><%= number_to_currency @subscription.amount %></td>
+      </tr>
+
+      <tr>
+        <th>Current payment method</th>
+        <td>
+          <% if @subscription.paypal? %>
+            PayPal
+          <% elsif @subscription.card_number && @subscription.card_expiration %>
+            <%= "#{@subscription.card_number} / #{@subscription.card_expiration}" %>
+          <% else %>
+            <strong>No payment method entered</strong>
+          <% end %>
+          </td>
+      </tr>
+    <% end %>
+  <% end %>
+</table>
+
+<% if @subscription.amount > 0 %>
+  <%= form_for @creditcard, :as => :creditcard, :url => { :action => "billing" } do |f| %>
+    <%= render "shared/credit_card_form" %>
+    <%= submit_or_cancel "/account", "Pay with PayPal" %>
+  <% end %>
+<% end %>

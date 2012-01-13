@@ -1,0 +1,100 @@
+<% @page_title = "View Subscription" %>
+
+<h2>Subscription Details</h2>
+<table>
+  <tr>
+    <th>Account</th>
+    <td><%= link_to(h(@subscription.subscriber), [:saas_admin, @subscription.subscriber]) %></td>
+  </tr>
+
+  <tr>
+    <th>Amount</th>
+    <td><%= number_to_currency(@subscription.amount) %></td>
+  </tr>
+
+  <tr>
+    <th>Created</th>
+    <td><%= @subscription.created_at.to_s(:short_day) %></td>
+  </tr>
+
+  <tr class="<%= "expired" unless @subscription.current? %>">
+    <th>Next Renewal</th>
+    <td><%= @subscription.next_renewal_at.to_s(:short_day) %></td>
+  </tr>
+
+  <tr>
+    <th>Plan</th>
+    <% if @subscription.subscription_plan %>
+      <td><%= link_to(@subscription.subscription_plan, [:saas_admin, @subscription.subscription_plan]) %></td>
+    <% end %>
+  </tr>
+
+  <tr>
+    <th>Status</th>
+    <td><%= @subscription.state %></td>
+  </tr>
+</table>
+
+<p><%= link_to "Edit Subscription", edit_saas_admin_subscription_path(@subscription) %></p>
+
+<div id="charge_subscription">
+  <h2>Charge Subscription</h2>
+  <p>
+    Use this form to make a one-time charge to the card on file for the subscription.
+    The transaction will be processed as soon as you submit this form.
+    The amount should be entered as dollars and cents, without the dollar sign or commas: e.g., 1.50 to charge $1.50.
+  </p>
+
+  <% if @subscription.errors.any? %>
+  <div class="errorExplanation" id="errorExplanation">
+    <h3>Errors encountered while charging the card:</h3>
+    <ul>
+      <%= raw(@subscription.errors.full_messages.map {|e| content_tag(:li, h(e))}) %>
+    </ul>
+  </div>
+  <% end %>
+
+  <%= form_tag({:action => 'charge'}, :id => 'charge_form', :onsubmit => 'return checkForm()') do %>
+    <label>Amount</label>
+    <input type="text" name="amount" id="amount" />
+    <input type="submit" value="Charge card" />
+  <% end %>
+</div>
+
+<h2>Transactions</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Amount</th>
+      <th>Transaction ID</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @subscription.subscription_payments.each do |payment| %>
+      <tr>
+        <td><%= payment.created_at.to_s(:short_day) %></td>
+        <td><%= number_to_currency(payment.amount) %></td>
+        <td><%= payment.transaction_id %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<% content_for :head do -%>
+  <script>
+    function checkForm() {
+      var amt = document.getElementById("amount");
+      amt.value = amt.value.replace(/[\$,]/g, "");
+      var to_charge = parseInt(amt.value);
+
+      if (isNaN(to_charge) || to_charge <= 0) {
+        alert("Please enter a number greater than 0.");
+        return false;
+      }
+
+      return confirm("Are you sure you want to charge $" + to_charge + "?")
+    }
+  </script>
+<% end -%>

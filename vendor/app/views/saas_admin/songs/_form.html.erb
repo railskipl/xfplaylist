@@ -1,0 +1,25 @@
+<%= f.error_messages %>
+
+<div class="field string">
+  <%= f.label :url, "What's the song's URL?" %>
+  <%= f.text_field :url %>
+</div>
+
+<div class="field string">
+  <%= f.label :genre %>
+  <%= f.select :genre, Song::GENRES %>
+</div>
+
+<div class="field boolean">
+  <%= f.label :explicit %>
+  <%= f.check_box :explicit %>
+</div>
+
+<% unless @song.new_record? %>
+  <div class="field string">
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+  </div>
+<% end %>
+
+<%= submit_or_cancel %>

@@ -1,0 +1,27 @@
+<h2><%= @page_title = "Contact" %></h2>
+
+<%= form_for(:message, :url => deliver_url(:subdomain => false)) do |f| %>
+  <div class="field string half">
+    <%= f.label :sender_name, "Your name" %>
+    <%= f.text_field :sender_name %>
+  </div>
+
+  <div class="field string half">
+    <%= f.label :sender_email, "Your email address" %>
+    <%= f.text_field :sender_email %>
+  </div>
+
+  <div class="field string gotcha">
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+  </div>
+
+  <div class="field text">
+    <%= f.label :body, "Your message" %>
+    <%= f.text_area :body, :rows => 8 %>
+  </div>
+
+  <div class="buttons">
+    <%= f.submit "Send message" %>
+  </div>
+<% end %>

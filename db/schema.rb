@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110719010221) do
+ActiveRecord::Schema.define(:version => 20120111043903) do
 
   create_table "accounts", :force => true do |t|
     t.string   "name"
@@ -21,6 +21,14 @@ ActiveRecord::Schema.define(:version => 20110719010221) do
   end
 
   add_index "accounts", ["full_domain"], :name => "index_accounts_on_full_domain"
+
+  create_table "contacts", :force => true do |t|
+    t.string   "name"
+    t.string   "email"
+    t.text     "message"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "flags", :force => true do |t|
     t.integer  "account_id"
@@ -76,6 +84,15 @@ ActiveRecord::Schema.define(:version => 20110719010221) do
   end
 
   add_index "songs", ["video_id"], :name => "index_songs_on_video_id", :unique => true
+
+  create_table "static_pages", :force => true do |t|
+    t.string   "title"
+    t.string   "keyword"
+    t.text     "body"
+    t.text     "meta_description"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "subscription_affiliates", :force => true do |t|
     t.string   "name"
@@ -151,6 +168,22 @@ ActiveRecord::Schema.define(:version => 20110719010221) do
   end
 
   add_index "subscriptions", ["subscriber_id", "subscriber_type"], :name => "index_subscriptions_on_subscriber_id_and_subscriber_type"
+
+  create_table "tiny_prints", :force => true do |t|
+    t.string   "image_file_name"
+    t.string   "image_file_size"
+    t.string   "image_content_type"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "tiny_videos", :force => true do |t|
+    t.string   "original_file_name"
+    t.string   "original_file_size"
+    t.string   "original_content_type"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "users", :force => true do |t|
     t.string   "name"

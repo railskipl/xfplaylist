@@ -1,5 +1,6 @@
 class SaasAdmin::PagesController < ApplicationController
   include Saas::ControllerHelpers
+  uses_tiny_mce
 
   def create
     @page = Page.new(params[:page])

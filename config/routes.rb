@@ -1,15 +1,18 @@
-class MainSite
+class MainSite 
   def self.matches?(request)
     request.subdomain.blank? || request.subdomain == 'www'
   end
 end
 
-Subscriptions::Application.routes.draw do
+Subscriptions::Application.routes.draw do |map|
   # Routes for the public site
   constraints MainSite do
     # Homepage
     root :to => "content#index"
-    
+    map.connect  '/home', :controller=>'home', :action=>'index'
+    map.connect '/pages/:id', :controller=>'blog', :action=>'page'
+   map.connect '/contacts', :controller=>'blog', :action=>'contact'
+   
     # Account Signup Routes
     match '/signup' => 'accounts#plans', :as => 'plans'
     match '/signup/d/:discount' => 'accounts#plans'
@@ -27,19 +30,21 @@ Subscriptions::Application.routes.draw do
     match '/content/:action' => 'content'
   end
 
-  root :to => "content#index"
-  
+  root :to => "songs#index"
+
   devise_for :users
 
   #
   # Account / User Management Routes
   #
   resources :users
+  
   resource :account do 
     member do
       get :dashboard, :thanks, :plans, :canceled
       match :billing, :paypal, :plan, :plan_paypal, :cancel
     end
+   resources :pages
   end
 
   # Custom routes specific to our app
@@ -50,6 +55,7 @@ Subscriptions::Application.routes.draw do
     
     resources :posts
     resources :songs
+    resources :messages
   end
 
   resources :pages, :only => :show
@@ -58,7 +64,8 @@ Subscriptions::Application.routes.draw do
   post      "songs/flag" => "songs#flag",     :as => "flag"
 
   get    "contact"      => "messages#new",    :as => "contact"
-  post   "contact/send" => "messages#create", :as => "deliver"
+  post   "/home" => "messages#create", :as => "deliver"
   get    "contact/sent" => "messages#sent",   :as => "sent"
+
 
 end

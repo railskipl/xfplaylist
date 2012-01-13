@@ -1,0 +1,24 @@
+<h2><%= @page_title = "Pages" %></h2>
+
+<table id="pages">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th></th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <% @pages.each do |page| %>
+      <tr data-page-id="<%= page.to_param %>" data-reposition-path="<%= reposition_saas_admin_page_path(page) %>">
+        <td><%= link_to page.title, saas_admin_page_path(page) %></td>
+        <td>
+          <%= link_to "Edit", edit_saas_admin_page_path(page) %>
+          <%= link_to "Delete", saas_admin_page_path(page), :method => :delete, :confirm => "Are you sure you want to permanently delete this page?" %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= link_to "Create a new page", new_saas_admin_page_path %>

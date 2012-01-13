@@ -1,0 +1,5 @@
+<h2><%= @page_title = "Edit Blog Post" %></h2>
+
+<%= form_for [:saas_admin, @post] do |f| -%>
+  <%= render :partial => "form", :locals => { :f => f } %>
+<% end -%>

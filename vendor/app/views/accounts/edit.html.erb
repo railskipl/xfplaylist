@@ -1,0 +1,12 @@
+<h2><%= @page_title = "Account Settings" %></h2>
+
+<%= form_for @account, :url => { :action => 'update' }, :html => { :method => :put } do |f| %>
+  <%= f.error_messages %>
+
+  <div class="field string">
+    <%= f.label :name, "Company name" %>
+    <%= f.text_field :name %>
+  </div>
+
+  <%= submit_or_cancel :action => 'show' %>
+<% end %>

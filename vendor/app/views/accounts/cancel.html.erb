@@ -1,0 +1,18 @@
+<h2><%= @page_title = "Cancel Account" %></h2>
+<p>You are about to cancel your account. This will <strong>permanently delete all of the data associated with it</strong>.</p>
+<p>Once you do this, you will no longer have access to your data, so be sure this is really what you want to do.</p>
+
+<h2>Wait! Before you go...</h2>
+<p>
+  Instead of canceling your account, perhaps you'd like to just switch your plan.
+  <%= link_to "Change your subscription level now", plan_account_path %>.
+</p>
+
+<%= form_tag :action => "cancel" do %>
+  <div class="field checkbox">
+    <input type="checkbox" name="confirm" class="checkbox" value="1" id="really_delete" />
+    <label for="really_delete">No thanks, I want to cancel my account and delete all of the data associated with it.</label>
+  </div>
+
+  <%= submit_or_cancel "/account", "Delete my account" %>
+<% end %>

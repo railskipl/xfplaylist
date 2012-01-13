@@ -15,6 +15,10 @@ gem "rails3_acts_as_paranoid", "0.0.8"
 gem "rdiscount", "1.6.8"
 gem "ssl_requirement", "0.1.0"
 gem "will_paginate", "3.0.pre2"
+gem "friendly_id", "4.0.0"
+gem 'tiny_mce'
+
+
 
 
 group :test, :development do

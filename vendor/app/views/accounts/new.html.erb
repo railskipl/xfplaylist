@@ -1,0 +1,71 @@
+<h2>You're just 60 seconds away from your new XF Playlist account</h2>
+
+<%= form_for @account, :url => { :action => "create" } do |account| %>
+  <%= hidden_field_tag "plan", params[:plan] %>
+  
+  <% if @account.errors.any? %>
+    <div class="errorExplanation">
+      <h3>Errors encountered with your account information:</h3>
+      <ul>
+        <%= raw(@account.errors.full_messages.map {|m| content_tag(:li, m)}) %>
+      </ul>
+    </div>
+  <% end %>
+
+  <%= account.fields_for :admin do |admin| %>
+    <fieldset>
+      <h3>Your information</h3>
+      <div class="field string">
+        <%= admin.label :name %>
+        <%= admin.text_field :name %>
+      </div>
+
+      <div class="field string">
+        <%= admin.label :email %>
+        <%= admin.text_field :email %>
+      </div>
+
+      <div class="field string">
+        <%= account.label :name, "Company" %>
+        <%= account.text_field :name %>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <h3>Now choose a password</h3>
+      <div class="field string">
+        <%= admin.label :password %>
+        <%= admin.password_field :password %>
+      </div>
+
+      <div class="field string">
+        <%= admin.label :password_confirmation, "Type your password again to verify" %>
+        <%= admin.password_field :password_confirmation %>
+      </div>
+    </fieldset>
+  <% end %>
+  
+  <fieldset>
+    <h3>Pick your new account URL</h3>
+    <div class="field string">
+      <%= account.text_field :domain %>.<%= Saas::Config.base_domain %>
+    </div>
+  </fieldset>
+
+  <% if @account.needs_payment_info? %>
+    <fieldset>
+      <h3>Enter your billing information</h3>
+
+      <%= render :partial => "shared/credit_card_form" %>
+
+      <p>
+        Your card will be charged <%= number_to_currency(@account.plan.setup_amount) + " now and " if  @account.plan.setup_amount? && !@account.plan.trial_period? %>
+        <%= number_to_currency(@account.plan.amount) %> <%= @account.plan.renewal_period == 1 ? "every month" : "every #{@account.plan.renewal_period} months" %>.
+      </p>
+    </fieldset>
+  <% end %>
+
+  <p>
+    <%= account.submit "Create my account" %>
+  </p>
+<% end %>

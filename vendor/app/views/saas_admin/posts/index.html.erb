@@ -1,0 +1,26 @@
+<h2><%= @page_title = "Blog Posts" %></h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Created</th>
+      <th></th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <% @posts.each do |post| %>
+      <tr>
+        <td><%= link_to post.title, saas_admin_post_path(post) %></td>
+        <td><%= post.created_at.to_s(:short_day) %></td>
+        <td>
+          <%= link_to "Edit", edit_saas_admin_post_path(post) %>
+          <%= link_to "Delete", saas_admin_post_path(post), :method => :delete, :confirm => "Are you sure you want to permanently delete this post?" %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= link_to "Create a new post", new_saas_admin_post_path %>

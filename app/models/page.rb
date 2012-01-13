@@ -1,10 +1,12 @@
 class Page < ActiveRecord::Base
   acts_as_list
-
+ has_many :users
+    
   default_scope order("position ASC, title ASC")
 
   attr_accessible :title, :slug, :body
-
+  
+    
   validates :title, :presence => true
   validates :slug,  :presence => true, :uniqueness => true, :format => /[\w-]+/
 
@@ -25,4 +27,7 @@ class Page < ActiveRecord::Base
       self.slug = new_slug
     end
   end
+  
+
+    
 end

@@ -5,8 +5,18 @@ body {
 	margin:0;
 	padding:0;
 	background:#000000;
+	font-family: Arial,Helvetica,sans-serif;
 }
 
+body {
+    background: url("/images/background.jpg") no-repeat scroll center top #000000;
+    margin: 0;
+    padding: 0;
+}
+
+#video_section .video {
+    padding: 0 0 0 45px;
+}
 img {
 	border:0;
 }
@@ -39,8 +49,44 @@ html {
 	position:relative
 }
 
+body.bg2 {
+    background: url("/images/background_2.jpg") repeat scroll center top #000000;
+}
+
+#container {
+    padding: 66px 0 0;
+    position: relative;
+    width: 1000px;
+}
+
+#container h1 {
+    color: #FFFFFF;
+    font-family: tahoma,arial,verdana;
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+}
+
+#container p {
+    color: #191919;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+}
+#wrapper {
+    margin: auto;
+    position: relative;
+    width: 1000px;
+}
+.logo {
+    float: left;
+    height: 125px;
+    margin: 32px 0 0;
+    width: 524px;
+}
+
 #header {
-	height:217px;
+	height:31px;
 }
 
 #header .logo {
@@ -254,7 +300,8 @@ html {
 #footer {
 	margin:0;
 	padding:0;
-	height:120px;
+	 
+	
 }
 #footer p{
 	font-size:13px;
@@ -263,5 +310,96 @@ html {
 	margin:0
 }
 
-	
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 70px;
+    color: #FFFFFF;
+}
+
+form .string label, form .text label, form .select label {
+    display: block;
+}
+form .field {
+    margin: 0 0 1em;
+}	
+
+.menuarea {
+    float: right;
+    margin: 72px 0 0;
+    width: 464px;
+}
+.menuarea ul {
+    margin: 0;
+    padding: 0;
+}
+
+.menuarea ul li {
+    display: inline;
+    float: left;
+}
+.menuarea ul li a {
+	margin:0;
+	padding:0;
+	display:block
+}
+.menuarea ul li a.blog {
+	background:url(/images/blog_n.png) no-repeat;
+	height:51px;
+	width:78px;
+}
+
+.menuarea ul li a.blog:hover {
+	background:url(/images/blog_o.png) no-repeat;
+}
+
+
+.menuarea ul li a.about {
+	background:url(/images/about_n.png) no-repeat;
+	height:51px;
+	width:96px;
+}
+
+.menuarea ul li a.about:hover {
+	background:url(/images/about_o.png) no-repeat;
+}
+
+.menuarea ul li a.faq {
+	background:url(/images/faq_n.png) no-repeat;
+	height:51px;
+	width:63px;
+}
+
+.menuarea ul li a.faq:hover {
+	background:url(/images/faq_o.png) no-repeat;
+}
+
+.menuarea ul li a.contact {
+	background:url(/images/contact_n.png) no-repeat;
+	height:51px;
+	width:103px;
+}
+
+.menuarea ul li a.contact:hover {
+	background:url(/images/contact_o.png) no-repeat;
+}
+
+.menuarea ul li a.private {
+	background:url(/images/private_n.png) no-repeat;
+	height:51px;
+	width:116px;
+}
+
+.menuarea ul li a.private:hover {
+	background:url(/images/private_o.png) no-repeat;
+}
+
+
+
+#footer {
+    color: #000000;
+    font-family: tahoma,arial,verdana;
+    font-size: 14px;
+    padding: 50px 0 0;
+}
 

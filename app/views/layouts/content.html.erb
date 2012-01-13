@@ -14,9 +14,9 @@
         	<!--header start here-->
             <div id="header">
             	<div class="logo"><img src="/images/logo.png" alt="" /></div>
-                <!--login form begin-->
+                <!--login form begin-->                
                 <div class="login_form">
-                	<form>
+                	   	<form>
                     	<label>Login :</label> <input type="text" name="username" value="Username" /> &nbsp;&nbsp;<input type="password" name="password" value="password" /><br />
                         <p align="center"><input type="image" src="/images/sign.png" height="43" width="97" /></p>  
                         <p align="center"><a href="#"><img src="/images/facebook_btn.png" alt="" /></a></p>                      
@@ -27,10 +27,10 @@
             <!--header end here-->
           
           
-    			<div id="body">
-     					 <%= flash_notices %>
-  							<%= yield %>
-    			</div>
+            <div id="body">
+      <%= flash_notices %>
+  		<%= yield %>
+    </div>
  <!--footer start-->
                 <div id="footer">
                     <p align="center">Copyright &copy; XF-Playlist, All rights reserved</p>
